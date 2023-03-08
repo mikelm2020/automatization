@@ -34,7 +34,7 @@
     <img src="https://github.com/mikelm2020/video-streaming/blob/961be498851fc7b1e9d940550e7eb54ea3b2130f/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Automatization</h3>
+  <h3 align="center">Automation</h3>
 
   <p align="center">
     Many projects for examples in the Selenium course in Platzi Platform
@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a personal project with examples of code for many exercices of automatization with Selenium library
+This is a personal project with examples of code for many exercices of automation with Selenium library
 
 In this project the objetives are:
 * Indentify web elements in a page of proof
